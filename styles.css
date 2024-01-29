@@ -1,0 +1,84 @@
+/* styles.css */
+
+/* General Styling */
+.section-header {
+    text-decoration: underline;
+    font-size: 1.2em;
+    color: #04AA6D;
+}
+
+/* Contact Section */
+.Contact {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Contact h2 {
+    color: #04AA6D;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+
+
+/* Skills Section */
+.Skills {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Skills h2 {
+    color: #04AA6D;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+.Skills ul {
+    list-style-type: none;
+}
+
+.Skills li {
+    margin: 5px 0;
+}
+
+
+.Summary {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Summary h2 {
+    color: #04AA6D;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+
+.Experience {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Experience h2 {
+    color: #04AA6D;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+.Experience h3 {
+    color: #131111;
+    padding: 10px;
+}
+
+.Experience p {
+    color: #f4f1f1;
+}
+
+.Experience ul {
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+.Experience li {
+    margin: 5px 0;
+}
