@@ -1,13 +1,11 @@
-/* styles.css */
 
-/* General Styling */
 .section-header {
     text-decoration: underline;
     font-size: 1.2em;
     color: #04AA6D;
 }
 
-/* Contact Section */
+
 .Contact {
     text-align: center;
     margin-top: 20px;
@@ -21,7 +19,7 @@
 
 
 
-/* Skills Section */
+
 .Skills {
     text-align: center;
     margin-top: 20px;
